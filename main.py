@@ -1,5 +1,6 @@
 print("Hello")
 
 def print_world():
-    """Print Hello World"""
+
+    """"Печатает Hello World"""
     print("Hello World")
